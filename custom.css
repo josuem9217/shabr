@@ -1,3 +1,85 @@
-.pillz{
-    font-size: 150%;
+ html,
+ body {
+     height: 100%;
+ }
+
+ h1{
+     color: #eee9e9;
+ }
+ 
+ .full-w {
+     width: 100%;
+ }
+ 
+ .full-h {
+     height: 100%;
+ }
+ 
+ .vert-center {
+     display: table-cell;
+     vertical-align: middle;
+ }
+ 
+ .transparent {
+     background: rgba(105, 105, 105,.7);
+ }
+ 
+ .section {
+     padding: 60px 0;
+ }
+ .pillz{
+    font-size: 200%;
 }
+ 
+ /**/
+ 
+ #home {
+     background-color: #2f4f4f;
+     display: table;
+ }
+ 
+ #fs1 {
+     background-color: #d3d3d3;
+     display: table;
+ }
+ 
+ #fs2 {
+     background-color: #bebebe;
+     display: table;
+ }
+ 
+ #fs3 {
+     background-color: #d3d3d3;
+     display: table;
+ }
+ 
+ #section {
+     padding: 60px 0;
+     background-color: #bebebe;
+ }
+ 
+ /**/
+ 
+ @media screen and (min-width: 0px) {
+     h1 {
+         font-size: 50px;
+     }
+ }
+ 
+ @media screen and (min-width: 768px) {
+     h1 {
+         font-size: 100px;
+     }
+ }
+ 
+ @media screen and (min-width: 992px) {
+     h1 {
+         font-size: 120px;
+     }
+ }
+ 
+ @media screen and (min-width: 1200px) {
+     h1 {
+         font-size: 150px;
+     }
+ }
