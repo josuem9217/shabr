@@ -24,9 +24,10 @@
      background: rgba(105, 105, 105,.7);
  }
  
- .section {
+ .section section2 {
      padding: 60px 0;
  }
+ 
  .pillz{
     font-size: 200%;
 }
@@ -34,7 +35,7 @@
  /**/
  
  #home {
-     background-color: #2f4f4f;
+     background-color: #1C53C9;
      display: table;
  }
  
@@ -56,6 +57,10 @@
  #section {
      padding: 60px 0;
      background-color: #bebebe;
+ }
+ #section2 {
+     padding: 60px 0;
+     background-color: #d3d3d3;
  }
  
  /**/
