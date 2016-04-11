@@ -21,43 +21,52 @@
  }
  
  .transparent {
-     background: rgba(105, 105, 105,.7);
+     background: rgba(105, 105, 105,.6);
  }
  
- .section {
+ .section section2 {
      padding: 60px 0;
  }
+ 
  .pillz{
     font-size: 200%;
+
 }
  
  /**/
  
  #home {
-     background-color: #2f4f4f;
+     background-color: #1C53C9;
      display: table;
  }
  
  #fs1 {
-     background-color: #d3d3d3;
+     background-color: #7DA6FF;
      display: table;
  }
  
  #fs2 {
-     background-color: #bebebe;
+     background-color: #B0C9FF;
      display: table;
  }
  
  #fs3 {
-     background-color: #d3d3d3;
+     background-color: #7DA6FF;
      display: table;
  }
  
  #section {
      padding: 60px 0;
-     background-color: #bebebe;
+     background-color: #B0C9FF;
+ }
+ #section2 {
+     padding: 60px 0;
+     background-color: #7DA6FF;
  }
  
+ #nav-color{
+  
+ }
  /**/
  
  @media screen and (min-width: 0px) {
