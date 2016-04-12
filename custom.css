@@ -23,6 +23,9 @@
  .transparent {
      background: rgba(105, 105, 105,.6);
  }
+ .transparent2 {
+     background: rgba(105, 105, 105,.6);
+ }
  
  .section section2 {
      padding: 60px 0;
@@ -31,6 +34,9 @@
  .pillz{
     font-size: 200%;
 
+}
+.homeText{
+ font-size: 500%;
 }
  
  /**/
